@@ -72,7 +72,10 @@ The selections will create a command you can enter within the virtual machine to
 <img src="https://i.imgur.com/uz8Rcpr.png" height="70%" width="70%" alt="Wazuh Lab Deployment"/>
 <br />
 <br />
-
+Connect to the virtual machine and enter the command to connect the Wazuh agent: <br/>
+<img src="https://i.imgur.com/It87A2D.png" height="80%" width="80%" alt="Wazuh Lab Deployment"/>
+<img src="https://i.imgur.com/vALooFR.png" height="80%" width="80%" alt="Wazuh Lab Deployment"/>
+<img src="https://i.imgur.com/nq3Un1L.png" height="80%" width="80%" alt="Wazuh Lab Deployment"/>
 </p>
 
 <!--
